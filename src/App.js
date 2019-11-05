@@ -8,7 +8,7 @@ class App extends React.Component {
     return (
       <Fragment>
         <div class="alert alert-success adjustElement" role="alert">
-          <h4 class="alert-heading">Well done!</h4>
+          <h4 class="alert-heading">I will write code soon</h4>
         </div>
       </Fragment>
     )
